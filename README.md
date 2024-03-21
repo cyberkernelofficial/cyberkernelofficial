@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/cyberkernelofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyberkernelofficial" height="30" width="40" /></a>
-<a href="https://www.t.me/cyberkernelofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/cyberkernelofficial/cyberkernelofficial/main/telegram_logo.png" alt="cyberkernelofficial" height="30" width="40" /></a>
+<a href="https://www.t.me/cyberkernelofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/cyberkernelofficial/cyberkernelofficial/main/telegram_icon.png" alt="cyberkernelofficial" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
